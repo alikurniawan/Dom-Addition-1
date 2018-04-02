@@ -1,0 +1,8 @@
+.blokF1{
+  float: left; display: flex; justify-content: center; margin: 10px;
+  height: 100px;
+
+}
+input{
+  border: 2px solid black; font-size: 20px;
+}
